@@ -1,37 +1,37 @@
-# buyMyBook
+# 🌈 Academics-Asset-Backend
+
+🚀 Backend code for Academics Assets
 
 Hi! My name is **Pankaj Kholiya**
 
-
-
-# Install Dependencies
+## 🛠️ Install Dependencies
 
 **For Backend** - `npm i`
 
-**For Frontend** - `cd frontend` ` npm i`
+## 🌐 Environment Variables
 
-## Env Variables
-
-Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
+Make Sure to Create a `config.env` file in the `backend/config` directory and add appropriate variables in order to use the app.
 
 **Essential Variables**
-PORT=
-DB_URI =
-STRIPE_API_KEY=
-STRIPE_SECRET_KEY=
-JWT_SECRET=
-JWT_EXPIRE=
-COOKIE_EXPIRE=
-SMPT_SERVICE =
-SMPT_MAIL=
-SMPT_PASSWORD=
-SMPT_HOST=
-SMPT_PORT=
-CLOUDINARY_NAME
-CLOUDINARY_API_KEY
-CLOUDINARY_API_SECRET
-_fill each filed with your info respectively_
+- `PORT=` 🌟
+- `DB_URI=` 🌟
+- `RAZORPAY_API_KEY=` 🌟
+- `RAZORPAY_API_SECRET=` 🌟
+- `JWT_SECRET=` 🌟
+- `JWT_EXPIRE=` 🌟
+- `COOKIE_EXPIRE=` 🌟
+- `SMPT_SERVICE=` 🌟
+- `SMPT_MAIL=` 🌟
+- `SMPT_PASSWORD=` 🌟
+- `SMPT_HOST=` 🌟
+- `SMPT_PORT=` 🌟
+- `CLOUDINARY_NAME` 🌟
+- `CLOUDINARY_API_KEY` 🌟
+- `CLOUDINARY_API_SECRET` 🌟
 
-## Author
+_Fill each field with your info respectively._
 
-**Instagram** Click [Here](https://www.instagram.com/ifeelpankaj) **@ifeelpankaj**
+## 👨‍💻 Author
+
+- [![Instagram Icon](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/ifeelpankaj) 
+-  [![LinkedIn Icon](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/ifeelpankaj) 
