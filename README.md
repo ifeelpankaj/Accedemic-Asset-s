@@ -33,5 +33,5 @@ _Fill each field with your info respectively._
 
 ## 👨‍💻 Author
 
-- [![Instagram Icon](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/ifeelpankaj) 
--  [![LinkedIn Icon](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/ifeelpankaj) 
+[![Instagram Icon](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/ifeelpankaj) 
+ [![LinkedIn Icon](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/ifeelpankaj) 
