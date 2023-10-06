@@ -1,4 +1,4 @@
-# 🌈 Academics-Asset-Backend
+# :star2: Academics-Asset-Backend
 
 🚀 Backend code for Academics Assets
 
